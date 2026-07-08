@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Kevin, a math and computer science student based in Canada. 
 
-If I randomly had an idea for an app, chances are I'm working on building it. 
+If I randomly had an idea for an app, chances are I'm building it. 
 
 My main tech stack is Python, typescript and tailwind. My favorite tools include PyTorch, Docker and Claude. 
 
