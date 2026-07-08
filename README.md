@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Kevin, a math and computer science student based in Canada. 
+
+If I randomly had an idea for an app, chances are I'm working on building it. 
+
+My main tech stack is Python, typescript and tailwind. My favorite tools include PyTorch, Docker and Claude. 
+
+Fun facts : 
+
+- I've had many exotic pets including frogs, crabs and a praying mantis
+- I don't like coffee
+- My hobbies include camping, tennis and competing in hackathons 
