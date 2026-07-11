@@ -20,6 +20,36 @@ If I randomly had an idea for an app, chances are I'm building it.
 
 My main tech stack is Python, typescript and tailwind for the web side, and PyTorch, Docker, scikit-learn, Numpy on the ML side.  
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Frameworks & Tools**
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+
 Fun facts : 
 
 - I've had many exotic pets including frogs, crabs and a praying mantis
