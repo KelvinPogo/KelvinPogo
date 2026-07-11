@@ -40,14 +40,10 @@ My main tech stack is Python, typescript and tailwind for the web side, and PyTo
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 Fun facts : 
