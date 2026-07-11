@@ -48,5 +48,5 @@ My main tech stack is Python, typescript and tailwind for the web side, and PyTo
 Fun facts : 
 
 - I've had many exotic pets including frogs, crabs and a praying mantis
-- I don't like coffee
+- I don't like coffee!
 - My hobbies include camping, tennis and competing in hackathons 
