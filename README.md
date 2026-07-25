@@ -22,7 +22,7 @@ My main tech stack is Python, typescript and tailwind for the web side, and PyTo
 
 ## 🛠️ Tech Stack
 
-**Languages*
+**Languages**
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
