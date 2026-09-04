@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kevin, a math and computer science student based in Canada. !
+I'm Kevin, a math and computer science student based in Canada. 
 
 If I randomly had an idea for an app, chances are I'm building it.
 
