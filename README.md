@@ -20,7 +20,7 @@ If I randomly had an idea for an app, chances are I'm building it.
 
 My main tech stack is Python, typescript and tailwind for the web side, and PyTorch, Docker, scikit-learn, Numpy on the ML side.  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
