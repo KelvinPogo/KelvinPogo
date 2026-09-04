@@ -49,4 +49,4 @@ Fun facts :
 
 - I've had many exotic pets including frogs, crabs and a praying mantis
 - I don't like coffee!
-- My hobbies include camping, tennis and competing in hackathons 
+- My hobbies include camping, tennis and competing in hackathons.
